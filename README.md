@@ -12,8 +12,12 @@ of 02_Assignment_DataTypes found in this repository.
 
 The assignment was downloaded into this repository *2021-05-20*
 
-## Project Due Date
+__Project Due Date__
 
 * 2021-06-01
+
+__Project Uploaded for Grading__
+
+* 2021-05-20
 
 
