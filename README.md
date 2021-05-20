@@ -1,5 +1,5 @@
 # Week 2 Assignment
-## MBA 655 Python Assignment 02 
+### MBA 655 Python Assignment 02 
 ### Data Types and Variables
 
 __Assignment__
